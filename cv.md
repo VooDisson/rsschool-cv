@@ -10,6 +10,7 @@ I've been working in hospitality for the last 5 years. It tought me to be a hard
     - etc
 
 4. JavaScript
+
 5.
 
 ```
